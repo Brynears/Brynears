@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brittany
-- 👀 I’m interested in video games, cats, and my boyfriend Josh
+- 👀 I’m interested in video games and cats
 - 🌱 I’m currently learning cloud skills with AWS
 - 💞️ I’m looking to collaborate on video game projects in unity
 - 📫 How to reach me: email is best at brynearson34@gmail.com
